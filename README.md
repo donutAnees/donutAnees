@@ -10,7 +10,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/donutAnees">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=donutAnees&count_private=true&show_icons=true&bg_color=0,fe8c00,f83600&title_color=ffffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=donutAnees&count_private=true&show_icons=true&bg_color=0,fe8c00,f83600&title_color=ffffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged" alt="GitHub Stats" />
         </a>
       </p>
     </td>
