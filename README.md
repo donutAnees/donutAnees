@@ -34,11 +34,11 @@
       <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
           <img src="https://forum.soliditylang.org/user_avatar/forum.soliditylang.org/system/288/802_2.png" alt="solidity" width="40" height="40"/>
       </a>
-     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://developer.android.com/static/images/brand/Android_Robot_200.png" alt="android" width="60" height="40"/>
-    </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.dev/assets/images/press-kit/angular_wordmark_gradient.png" alt="angularjs" width="100" height="40"/>
+    </a>
+     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+        <img src="https://developer.android.com/static/images/brand/Android_Robot_200.png" alt="android" width="60" height="40"/>
     </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/240px-Gnu-bash-logo.svg.png" alt="bash" width="80" height="30"/>
